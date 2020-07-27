@@ -12,6 +12,16 @@
 }
 .box_1 {
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.html_button {
+  text-align:center;
+}
 ._图片 {
 }
 .text_field {
@@ -26,6 +36,10 @@
 }
 .primary_button {
   color:#FFFFFF;
+}
+._形状 {
+}
+._图片_ {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -123,6 +137,8 @@
 }
 .vertical_line {
 }
+.flow_shape1 {
+}
 .iconfont {
   font-family:'iconfont Normal', 'iconfont';
   font-weight:400;
@@ -131,5 +147,19 @@
   color:#666666;
 }
 .form_disabled {
+}
+._表格 {
+}
+._单元格 {
+}
+.paragraph1 {
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
